@@ -1,0 +1,81 @@
+{
+    "siswa" : [
+        {
+          "id": 1,
+          "nama": "Zidan Alfarizi",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 2,
+         "nama": "Honey",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 3,
+          "nama": "Reza",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 4,
+          "nama": "Sukron",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 5,
+          "nama": "Udin",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 6,
+          "nama": "Amr",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 7,
+          "nama": "Yudhis",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 8,
+          "nama": "Risdo",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 9,
+          "nama": "Iqbal",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 10,
+          "nama": "Devita",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 11,
+          "nama": "Supriadi",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 12,
+          "nama": "Ucok",
+          "alamat": "Jakarta"
+        },
+    
+        {
+          "id": 13,
+          "nama": "Nurdin",
+          "alamat": "Jakarta"
+        }
+      ]
+}
